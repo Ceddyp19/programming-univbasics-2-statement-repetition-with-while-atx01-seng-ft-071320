@@ -2,7 +2,7 @@ count_down = 10
 
 while count_down >= 1 do
   puts count_down
-  countdown -= 1
+  count_down -= 1
 end
  
 puts "Happy New Year!"
