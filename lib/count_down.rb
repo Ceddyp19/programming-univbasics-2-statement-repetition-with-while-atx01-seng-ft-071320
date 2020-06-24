@@ -1,4 +1,4 @@
-count_down = '10'
+count_down = 10
 
 while count_down >= 1 do
   puts count_down
